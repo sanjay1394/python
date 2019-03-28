@@ -3,7 +3,7 @@ pygame.init()
 
 win = pygame.display.set_mode((500, 500))
 
-pygame.display.set_caption("falling square")
+pygame.display.set_caption("falling circle")
 
 x = 250
 y = 150
